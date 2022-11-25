@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 😶‍🌫️ I’m currently working on final project
 🌱 I’m currently learning MicroService
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pikachudy&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pikachudy&count_private=true&show_icons=true&theme=radical)
