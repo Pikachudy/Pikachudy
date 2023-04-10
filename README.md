@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😶‍🌫️ I’m currently working on final project
-- 🌱 I’m currently learning MicroService
+- 😶‍🌫️ I’m currently working on finding intership
+- 🌱 I’m currently learning machine learning on source code
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pikachudy&count_private=true&show_icons=true&theme=vue)
