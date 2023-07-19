@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on paper reading about LLM
 - 🌱 I’m currently learning machine learning on source code
-- 💬 Ask me about finding an internship at Alibaba
-
+- 🧑‍💻 I'm currently working as a intern at Alibaba
+- 💬 I'm looking to collaborate on ios development
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pikachudy&count_private=true&show_icons=true&theme=vue)
