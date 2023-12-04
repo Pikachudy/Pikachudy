@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning machine learning on source code
-- 🧑‍💻 I'm currently working as a intern at Alibaba
+- 🧑‍💻 I'm currently working as an intern at Alibaba
 - 💬 I'm looking to collaborate on ios development
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pikachudy&count_private=true&show_icons=true&theme=vue)
